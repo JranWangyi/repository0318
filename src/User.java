@@ -8,4 +8,5 @@ public class User {
     private String familyName;
     private String ccdd;
     private String wanrong;
+    private String uuuuu;
 }
