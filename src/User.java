@@ -6,4 +6,5 @@ public class User {
     private String address;
     private int wangyi;
     private String familyName;
+    private String ccdd;
 }
