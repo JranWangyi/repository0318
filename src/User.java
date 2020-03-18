@@ -9,4 +9,5 @@ public class User {
     private String ccdd;
     private String wanrong;
     private String uuuuu;
+    private String vvvv;
 }
